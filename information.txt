@@ -1,0 +1,51 @@
+Monitor
+  Windows description...... Generic PnP Monitor
+  Manufacturer............. LG Display
+  Plug and Play ID......... LGD0491
+  Data string.............. JNK10€125WF1  [*CP437]
+  Serial number............ n/a
+  Manufacture date......... 2014, ISO week 0
+  Filter driver............ None
+  -------------------------
+  EDID revision............ 1.4
+  Input signal type........ Digital (DisplayPort)
+  Color bit depth.......... 6 bits per primary color
+  Color encoding formats... RGB 4:4:4
+  Screen size.............. 280 x 160 mm (12.7 in)
+  Power management......... Not supported
+  Extension blocs.......... None
+  -------------------------
+  DDC/CI................... n/a
+
+Color characteristics
+  Default color space...... Non-sRGB
+  Display gamma............ 2.20
+  Red chromaticity......... Rx 0.597 - Ry 0.350
+  Green chromaticity....... Gx 0.340 - Gy 0.575
+  Blue chromaticity........ Bx 0.155 - By 0.122
+  White point (default).... Wx 0.313 - Wy 0.329
+  Additional descriptors... None
+
+Timing characteristics
+  Range limits............. Not available
+  GTF standard............. Not supported
+  Additional descriptors... None
+  Preferred timing......... Yes
+  Native/preferred timing.. 1920x1080p at 60Hz 
+    Modeline............... "1920x1080" 138.700 1920 1968 2000 2080 1080 1083 1088 1111 +hsync -vsync
+  Detailed timing #1....... 1920x1080p at 48Hz 
+    Modeline............... "1920x1080" 111.000 1920 1968 2000 2080 1080 1083 1088 1111 +hsync -vsync
+
+Standard timings supported
+
+Report information
+  Date generated........... 2021/2/22
+  Software revision........ 2.90.0.1020
+  Data source.............. Registry-Active - NB: improperly installed
+  Operating system......... 10.0.19042.2
+
+Raw data
+  00,FF,FF,FF,FF,FF,FF,00,30,E4,91,04,00,00,00,00,00,18,01,04,95,1C,10,78,02,E1,D5,98,59,57,93,27,
+  1F,50,54,00,00,00,01,01,01,01,01,01,01,01,01,01,01,01,01,01,01,01,2E,36,80,A0,70,38,1F,40,30,20,
+  35,00,14,9C,10,00,00,1A,5C,2B,80,A0,70,38,1F,40,30,20,35,00,14,9C,10,00,00,1A,00,00,00,FE,00,4A,
+  4E,4B,31,30,80,31,32,35,57,46,31,0A,00,00,00,00,00,00,41,21,A4,01,00,00,00,0A,01,0A,20,20,00,F5
